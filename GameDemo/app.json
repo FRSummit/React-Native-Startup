@@ -1,0 +1,17 @@
+{
+  "name": "GameDemo",
+  "displayName": "GameDemo",
+  "expo": {
+    "name": "GameDemo",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

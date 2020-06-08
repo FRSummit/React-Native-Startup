@@ -1,0 +1,17 @@
+{
+  "name": "RouterDemo",
+  "displayName": "RouterDemo",
+  "expo": {
+    "name": "RouterDemo",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

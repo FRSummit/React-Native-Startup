@@ -1,0 +1,3 @@
+>> npm install @react-navigation/native [not works]
+>> npm install react-navigation
+>> yarn add react-native-router-flux
