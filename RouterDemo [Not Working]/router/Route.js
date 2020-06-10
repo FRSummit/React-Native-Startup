@@ -6,8 +6,8 @@ import About from '../Screens/About.js'
 const Routes = () => (
     <Router>
        <Scene key = "root">
-          <Scene key = "home" component = {Home} title = "Home" initial = {true} />
-          <Scene key = "about" component = {About} title = "About" />
+          <Scene exact path="/" key = "home" component = {Home} title = "Home" initial = {true} />
+          <Scene exact path="/about" key = "about" component = {About} title = "About" />
        </Scene>
     </Router>
  )
