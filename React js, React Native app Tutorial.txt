@@ -1,0 +1,32 @@
+React js
+
+>> npx create-react-app hello-world
+
+--> Open it in VS Code
+-> npm start => Start the devemopment server
+-> npm build => Bundles the app into static files for production
+-> npm test  => Start the test runner
+-> npm eject => Removes this tool and copies build dependencies, configuration files 
+				and scripts into the app directory. If you do this, you can’t go back!
+				
+Install Router dom
+>> npm install --save react-router-dom
+
+
+
+=================================================
+
+React js Native app
+
+>> npm install -g create-react-native-app
+		OR
+>> npm install -g react-native-cli
+
+>> create-react-native-app AwsomeProject
+		OR 
+>> npm install -g react-native-cli
+
+--> To run your project
+-> npm android
+-> npm ios # you need to use macOS to build the iOS project - use the Expo app if you need to do iOS development without a Mac
+-> npm web
